@@ -11,6 +11,6 @@ npm install
 
 Express JS is used for running browser execute below command to compile and deploy
 
-node server/expressServer
+node server or node expressServer
 
-Hit the URL http://localhost:8080/"
+Hit the URL http://localhost:8080/
